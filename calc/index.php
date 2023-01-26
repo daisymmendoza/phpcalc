@@ -15,7 +15,7 @@
     </form>
 </div>
 
-<style><?php include '/applications/xampp/htdocs/calc/style.css'; ?></style>
+<style><?php include 'c:/xampp/htdocs/calc/style.css'; ?></style>
 
 <?php
     if (isset($_GET['submit'])) {
